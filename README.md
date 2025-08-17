@@ -1,49 +1,76 @@
-<h1 align="center">Привет! 👋 Меня зовут Карен</h1>
+# Karen – Freelance Developer  
 
-<p align="center">
-🌍 Я начинающий разработчик, увлечённый программированием и готовый к новым вызовам.  
-Ищу фриланс или удалённую работу — готов работать до 40 часов в неделю.
-</p>
-
----
-
-### 🛠️ Технологии, с которыми работаю:
-
-- 💻 **Языки программирования:** JavaScript, Java, C++
-- 🌐 **Фронтенд:** HTML, CSS, основы JavaScript
-- 🧠 **Алгоритмы и логика:** Решаю задачи на C++ и Java, разбираюсь в базовых структурах данных
+💻 **Specialization:** Frontend Development | Automation & Parsers | C++/Qt Applications  
+📍 **Location:** [Krasnodar]  
+⏱ **Availability:** 5–7 hours per day  
+📧 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) asatran687@gmail.com  
+💬 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) +7 989 82 80 100  
+🌐 **GitHub:** [github.com/Karen2485](https://github.com/Karen2485)  
 
 ---
 
-### 🎯 Мои цели:
-
-- Прокачать навыки в веб-разработке
-- Реализовать первые коммерческие проекты
-- Научиться работать в команде и участвовать в open source
-
----
-
-### 📚 Языки:
-
-- 🇦🇲 Армянский — родной
-- 🇷🇺 Русский — свободно
-- 🇬🇧 Английский — разговорный
+## 🔹 About Me  
+Freelance developer with a unique background: **10 years in military logistics**, where I successfully implemented digital solutions in supply chain and process automation.  
+Now I combine my analytical and organizational experience with programming skills.  
+Focused on **frontend development, parsers, and desktop apps (C++/Qt)**.  
 
 ---
 
-### 📫 Контакты:
-
-- 📧 Email: **asatran687@gmail.com**
-- 💼 GitHub: [Karen2485](https://github.com/Karen2485)
-
----
-
-### 🚀 В ближайших планах:
-
-- Добавить проекты на JavaScript и Java
-- Разместить тестовое портфолио
-- Начать брать первые заказы на фриланс
+## 🔹 Skills  
+- **Programming Languages:** Java, JavaScript, C++  
+- **Frameworks & Tools:** JavaFX, Qt, Puppeteer, Node.js, HTML/CSS  
+- **Specialization:**  
+  - Web automation & data parsers  
+  - Frontend apps with interactive UI  
+  - Desktop GUI applications (Qt/C++)  
+- **Other:** Git, Linux/Windows environments, Arduino (hobby projects)  
 
 ---
 
-_Спасибо, что заглянули! Буду рад любой поддержке, обратной связи и предложениям о сотрудничестве 🤝_
+## 🔹 Languages  
+- Armenian – Native  
+- Russian – Native  
+- English – Conversational  
+
+---
+
+## 🔹 Projects  
+
+### 🔸 RSS-Aggregator (JS, HTML, CSS)  
+RSS Reader with multilingual support, async data loading, error handling, and clean UI.  
+**Tech:** JavaScript, Bootstrap, Webpack, i18next.  
+
+### 🔸 Tic-Tac-Toe Game (Java)  
+Two modes:  
+- Single-player vs AI  
+- Two-player vs human  
+Includes win detection logic, graphical UI, and replay option.  
+**Tech:** Java, Swing.  
+
+### 🔸 Qt Calculator (C++)  
+Cross-platform desktop calculator with error handling, keyboard support and customizable themes.  
+**Tech:** C++, Qt.  
+
+### 🔸 Lottery Data Parser (Node.js)  
+Automated parser for extracting lottery results (dates, numbers, draw IDs) with scrolling and date filtering. Storing results in CSV format.  
+**Tech:** Node.js, Puppeteer, JavaScript.  
+
+---
+
+## 🔹 Work Experience  
+**Military Logistics (10 years)**  
+- Managed supply chains and digital systems in logistics  
+- Introduced automation solutions that optimized processes and reduced manual errors  
+- Coordinated teams and developed digital workflows for real-time operations  
+
+---
+
+## 🔹 Availability  
+- Ready for freelance projects  
+- Can dedicate 5–7 hours per day  
+- Open to both short-term automation tasks and long-term frontend/dev projects  
+
+---
+
+## 🔹 Personal Interests  
+In my free time, I enjoy working on Arduino projects, exploring automation and smart devices.  
