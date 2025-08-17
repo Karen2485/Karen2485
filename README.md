@@ -66,14 +66,15 @@ Automated parser for extracting lottery results (dates, numbers, draw IDs) with 
 ---
 
 ## 🔹 Education
-**Krasnodar Technological University**  
-*Bachelor’s Degree in Computer Science, 2011 – 2017*  
 
 **Ulyanovsk Military Academy of Communications**  
 *Engineer Degree in Communications, 2000 – 2006*  
 
+**Krasnodar Technological University**  
+*Bachelor’s Degree in Computer Science, 2011 – 2017*  
+
 **Hexlet Online Programming School**  
-*Programming Courses – Frontend Developer*  
+*Hexlet Online Programming School – Frontend Development Program (2022)*  
 
 ---
 
