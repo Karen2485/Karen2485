@@ -65,6 +65,19 @@ Automated parser for extracting lottery results (dates, numbers, draw IDs) with 
 
 ---
 
+## Education
+**Krasnodar Technological University**  
+*Bachelor’s Degree in Computer Science, 2011 – 2017*  
+
+**Ulyanovsk Military Academy of Communications**  
+*Engineer Degree in Communications, 2000 – 2006*  
+
+**Hexlet Online Programming School**  
+*Programming Courses – Frontend Developer*  
+
+---
+
+
 ## 🔹 Availability  
 - Ready for freelance projects  
 - Can dedicate 5–7 hours per day  
