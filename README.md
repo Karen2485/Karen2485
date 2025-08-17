@@ -65,7 +65,7 @@ Automated parser for extracting lottery results (dates, numbers, draw IDs) with 
 
 ---
 
-## Education
+## 🔹 Education
 **Krasnodar Technological University**  
 *Bachelor’s Degree in Computer Science, 2011 – 2017*  
 
